@@ -4,7 +4,7 @@ import pandas as pd
 # Load the dataset
 
 def load_data():
-    return pd.read_csv('https://raw.githubusercontent.com/AriyovaBanua/data-analyst-dicoding/dashboard/hour.csv')
+    return pd.read_csv('https://raw.githubusercontent.com/AriyovaBanua/data-analyst-dicoding/285068fe412a8daf9badbe404792c175a1f49413/dashboard/hour.csv')
 
 df = load_data()
 
