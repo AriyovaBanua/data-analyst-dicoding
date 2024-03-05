@@ -24,7 +24,7 @@ The primary objective of this project is to analyze the factors influencing bike
 - `README.md`: This documentation file.
 
 ## Installation
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine: https://github.com/AriyovaBanua/data-analyst-dicoding.git
 ```
 git clone 
 ```
