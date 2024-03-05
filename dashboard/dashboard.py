@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load the dataset
-@st.cache_resource
+
 def load_data():
     return pd.read_csv('hour.csv')
 
